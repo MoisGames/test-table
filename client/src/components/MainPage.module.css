@@ -1,0 +1,31 @@
+tr,td,th,thead {
+    
+    border: 10px solid white;
+    background-color: rgb(224, 224, 224);
+    padding: 5px;
+}
+.chart_line {
+    width: 1000px;
+    background-color: white;
+}
+.current_day {
+    background-color: rgb(156, 251, 251);
+}
+.yesterday_plus {
+    background-color: rgb(216, 255, 216);
+}
+.yesterday_minus {
+    background-color: rgb(255, 196, 196);
+}
+.row_pointer {
+    cursor: pointer;
+}
+.percent_span_plus {
+    color: green;
+}
+.percent_span_minus {
+    color: red;
+}
+.percent_span {
+    color: black;
+}
